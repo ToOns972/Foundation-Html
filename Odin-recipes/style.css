@@ -1,0 +1,24 @@
+body{
+    /* box-sizing: border-box; */
+}
+/* *, */
+/* *::before, */
+/* *::after{ */
+/* box-sizing: inherit; */
+/* } */
+h1{
+    width: 400px;
+    margin: 0 auto;
+    padding: 32px;
+    text-align: center;
+
+}
+.liste{
+    margin-left: auto;
+    font-size: 20px;
+}
+.liste li{
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: aqua;
+}
